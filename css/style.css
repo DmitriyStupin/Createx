@@ -89,7 +89,7 @@ body {
 /* ------------------------------------------------------------------------ */
 .header {
     font-weight: 700;
-    background: url("images/header-bg-decor.svg") 50% 50% / cover no-repeat,
+    background: url("../images/header-bg-decor.svg") 50% 50% / cover no-repeat,
         linear-gradient(56deg,
             rgba(255, 63, 58, 0.2) 0%,
             rgba(247, 94, 5, 0.2) 100%);
@@ -155,7 +155,7 @@ body {
     left: 0;
     transform: translateY(-50%);
     content: "";
-    background: url("images/icons/Profile.svg") no-repeat;
+    background: url("../images/icons/Profile.svg") no-repeat;
     width: 20px;
     height: 20px;
     display: block;
@@ -275,7 +275,7 @@ body {
     position: absolute;
     top: -80px;
     right: -100px;
-    background: url("images/shapes.svg");
+    background: url("../images/shapes.svg");
     width: 100px;
     height: 85px;
 }
@@ -475,7 +475,7 @@ body {
     display: block;
     width: 24px;
     height: 24px;
-    background: url("images/icons/arrow-right.svg") 0 6px no-repeat;
+    background: url("../images/icons/arrow-right.svg") 0 6px no-repeat;
     margin-left: 11px;
 }
 
@@ -768,7 +768,7 @@ body {
     position: absolute;
     top: 0;
     left: -58px;
-    background: url('images/icons/braces.svg') 0 0 / 100% no-repeat;
+    background: url('../images/icons/braces.svg') 0 0 / 100% no-repeat;
     width: 28px;
     height: 20px;
 }
@@ -1146,7 +1146,7 @@ body {
     display: block;
     width: 16px;
     height: 20px;
-    background: url("images/icons/Calendar.svg") 0 0 / 100% no-repeat;
+    background: url("../images/icons/Calendar.svg") 0 0 / 100% no-repeat;
     margin-right: 9px;
 }
 
@@ -1160,7 +1160,7 @@ body {
     display: block;
     width: 16px;
     height: 20px;
-    background: url("images/icons/Clock.svg") 0 0 / 100% no-repeat;
+    background: url("../images/icons/Clock.svg") 0 0 / 100% no-repeat;
     margin-right: 9px;
 }
 
@@ -1185,7 +1185,7 @@ body {
     display: block;
     width: 24px;
     height: 24px;
-    background: url('images/icons/Right2.svg') 0 0 / 100% no-repeat;
+    background: url('../images/icons/Right2.svg') 0 0 / 100% no-repeat;
     margin-left: 8px;
 
 }
@@ -1202,15 +1202,15 @@ body {
     background: #fff8aa;
 }
 .blog__item--podcast .blog__image-box span::before {
-    background: url('images/icons/mic.svg') 0 0 / 100% no-repeat;
+    background: url('../images/icons/mic.svg') 0 0 / 100% no-repeat;
 }
 
 .blog__item--video .blog__image-box span::before {
-    background: url('images/icons/Play.svg') 0 0 / 100% no-repeat;
+    background: url('../images/icons/Play.svg') 0 0 / 100% no-repeat;
 }
 
 .blog__item--article .blog__image-box span::before {
-    background: url('images/icons/Files.svg') 0 0 / 100% no-repeat;
+    background: url('../images/icons/Files.svg') 0 0 / 100% no-repeat;
 }
 
 .blog__item-text {
@@ -1282,15 +1282,15 @@ body {
 }
 
 .info__mail .info__item-top::before {
-    background: url('images/icons/Chat.svg') 0 0 / 100% no-repeat;
+    background: url('../images/icons/Chat.svg') 0 0 / 100% no-repeat;
 }
 
 .info__tel .info__item-top::before {
-    background: url('images/icons/iPhone.svg') 0 0 / 100% no-repeat;
+    background: url('../images/icons/iPhone.svg') 0 0 / 100% no-repeat;
 }
 
 .info__address .info__item-top::before {
-    background: url('images/icons/Pin.svg') 0 0 / 100% no-repeat;
+    background: url('../images/icons/Pin.svg') 0 0 / 100% no-repeat;
 }
 
 .info__item-address {
@@ -1432,7 +1432,7 @@ body {
 }
 
 .questions__form-default:checked+.questions__form-custom {
-    background: url("images/icons/check.svg") 50% 50% no-repeat #ff3f3a;
+    background: url("../images/icons/check.svg") 50% 50% no-repeat #ff3f3a;
     border: 1px solid #ff3f3a;
 }
 
@@ -1596,7 +1596,7 @@ body {
     display: block;
     width: 16px;
     height: 16px;
-    background: url('images/icons/arrow-right-footer.svg') 0 0 / 100% no-repeat;
+    background: url('../images/icons/arrow-right-footer.svg') 0 0 / 100% no-repeat;
     transition: all .3s;
 
 }
@@ -1626,7 +1626,7 @@ body {
     display: inline-block;
     width: 16px;
     height: 16px;
-    background: url('images/icons/Heart.svg') 0 0 / 100% 100% no-repeat;
+    background: url('../images/icons/Heart.svg') 0 0 / 100% 100% no-repeat;
     vertical-align: sub;
 }
 
