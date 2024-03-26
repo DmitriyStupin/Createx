@@ -89,7 +89,7 @@ body {
 /* ------------------------------------------------------------------------ */
 .header {
     font-weight: 700;
-    background: url("./images/header-bg-decor.svg") 50% 50% / cover no-repeat,
+    background: url("../images/header-bg-decor.svg") 50% 50% / cover no-repeat,
         linear-gradient(56deg,
             rgba(255, 63, 58, 0.2) 0%,
             rgba(247, 94, 5, 0.2) 100%);
